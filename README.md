@@ -2,7 +2,7 @@
 
 This is a curated, but probably biased and incomplete, list of awesome Efficient XAI resources.
 
-If you want to contribute to this list, feel free to pull a request. Also you can contact [Yu-neng Chuang](https://www.linkedin.com/in/ync/) from the [Data Lab](https://cs.rice.edu/~xh37/index.html) at Rice University through email: ynchuang@rice.edu.
+If you want to contribute to this list, feel free to pull a request. Also you can contact [Yu-Neng Chuang](https://www.linkedin.com/in/ync/) and [Guanchu Wang](https://guanchuwang.github.io/home/) from the [Data Lab](https://cs.rice.edu/~xh37/index.html) at Rice University through email: ynchuang@rice.edu and guanchu.wang@rice.edu.
 
 ## What is XAI? Why do we focus on the Efficiency of XAI?
 
