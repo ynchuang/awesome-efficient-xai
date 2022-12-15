@@ -19,11 +19,11 @@ Providing a real-time explanation is still a remaining challenge in preserving t
 
 * [Review and General Papers](#review-and-general-papers)
 
-* [Non-amortized acceleration](#non-amortized acceleration)
+* [Non-amortized acceleration](#non-amortized-acceleration)
     * Data-centric Acceleration
     * Model-centric Acceleration
 
-* [Amortized acceleration](#amortized acceleration)
+* [Amortized acceleration](#amortized-acceleration)
     * Predictive-driven Method
     * Generative-driven Method
     * Reinforcement Method
